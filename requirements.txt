@@ -1,0 +1,10 @@
+huggingface_hub
+streamlit
+smolagents
+litellm
+pydantic
+sympy
+python-dotenv
+matplotlib
+numpy
+pandas
